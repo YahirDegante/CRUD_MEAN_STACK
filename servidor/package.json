@@ -1,0 +1,19 @@
+{
+  "name": "productapi",
+  "version": "1.0.0",
+  "description": "MEAN Api",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ."
+  },
+  "author": "YahirDeagnte",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "mongoose": "^8.19.2"
+  }
+}
